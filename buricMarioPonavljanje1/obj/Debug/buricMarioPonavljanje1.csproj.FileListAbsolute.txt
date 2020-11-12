@@ -1,0 +1,7 @@
+C:\Users\4.D\source\repos\buricMarioPonavljanje1\buricMarioPonavljanje1\bin\Debug\buricMarioPonavljanje1.exe.config
+C:\Users\4.D\source\repos\buricMarioPonavljanje1\buricMarioPonavljanje1\bin\Debug\buricMarioPonavljanje1.exe
+C:\Users\4.D\source\repos\buricMarioPonavljanje1\buricMarioPonavljanje1\bin\Debug\buricMarioPonavljanje1.pdb
+C:\Users\4.D\source\repos\buricMarioPonavljanje1\buricMarioPonavljanje1\obj\Debug\buricMarioPonavljanje1.csprojAssemblyReference.cache
+C:\Users\4.D\source\repos\buricMarioPonavljanje1\buricMarioPonavljanje1\obj\Debug\buricMarioPonavljanje1.csproj.CoreCompileInputs.cache
+C:\Users\4.D\source\repos\buricMarioPonavljanje1\buricMarioPonavljanje1\obj\Debug\buricMarioPonavljanje1.exe
+C:\Users\4.D\source\repos\buricMarioPonavljanje1\buricMarioPonavljanje1\obj\Debug\buricMarioPonavljanje1.pdb
